@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\StudentsExamGrades\StudentsExamGrades\main.cpp(6,14): warning C4101: 'i': unreferenced local variable
+  StudentsExamGrades.vcxproj -> C:\Users\HP\source\repos\StudentsExamGrades\Debug\StudentsExamGrades.exe
