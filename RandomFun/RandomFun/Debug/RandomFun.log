@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Cpp_GitHub\CppProgramming\RandomFun\RandomFun\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomFun.vcxproj -> F:\Cpp_GitHub\CppProgramming\RandomFun\Debug\RandomFun.exe
