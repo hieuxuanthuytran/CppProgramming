@@ -34,3 +34,17 @@
        * This will depend on what package they own.
        * If they stayed at or under the number of jams included in their monthly package, they only owe the monthly fee.
        * If they went over, then you charde them the monthly fee plus the charge for each additional jam at their package's rate.
+# Project: OddsAndEvens
+     Loop through integers 0 to 50 (inclusive)
+     Print out whether each integer is odd or even, such as:
+     - "_______ is odd" or "________ is even"
+# Project: GuessTheNumber
+     The computer will randomly select an integer between 1 and 100 (inclusive)
+     * The user will try and guess the computer's number
+     * Also count the number of guesses
+     Four possibilities:
+     * If the user guesses correctly, print "Congratulations! You guessed the number in <#guesses>! Thanks for playing" and program exits
+     * If the user selects a number too low, print out "Your guess is too low!"
+     * If the user selects a number too high, print out "Your guess is too high!"
+     * If the user selects a number lower than 1 or higher than 100, tell the user it was a wasted guess and to pick between 1 and 100.
+
