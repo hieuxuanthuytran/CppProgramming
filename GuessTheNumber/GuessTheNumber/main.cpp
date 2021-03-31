@@ -17,7 +17,7 @@ int main()
 
 		if (guess == randomNum) {
 			cout << "Congratulations! You guessed the number in " << guess << "!\nThanks for playing." << endl;
-			break;
+			guessedNum = true;
 		}
 		else if (guess < randomNum && guess >= 1) {
 			cout << "Your guess is too low!\n";
