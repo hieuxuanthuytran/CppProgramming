@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Cpp_GitHub\CppProgramming\OddsAndEvens\OddsAndEvens\main.cpp(8,6): warning C4101: 'number': unreferenced local variable
+  OddsAndEvens.vcxproj -> F:\Cpp_GitHub\CppProgramming\OddsAndEvens\Debug\OddsAndEvens.exe
