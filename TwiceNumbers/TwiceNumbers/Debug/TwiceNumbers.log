@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Cpp_GitHub\CppProgramming\TwiceNumbers\TwiceNumbers\main.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+  TwiceNumbers.vcxproj -> F:\Cpp_GitHub\CppProgramming\TwiceNumbers\Debug\TwiceNumbers.exe
