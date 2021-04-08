@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Cpp_GitHub\CppProgramming\VectorData\VectorData\main.cpp(12,20): warning C4018: '<=': signed/unsigned mismatch
+  VectorData.vcxproj -> F:\Cpp_GitHub\CppProgramming\VectorData\Debug\VectorData.exe
