@@ -47,4 +47,10 @@
    * If the user selects a number too low, print out "Your guess is too low!"
    * If the user selects a number too high, print out "Your guess is too high!"
    * If the user selects a number lower than 1 or higher than 100, tell the user it was a wasted guess and to pick between 1 and 100.
-
+# Project: Weight Tracking
+   * Use a technical called parallel arrays (more correctly, parallel vectors)
+   * Use two vectors
+       * One for names, one for weights
+   * Prompt the user for the names and weights of 5 different people
+   * Print out sentences for each person, such as "Talia weights 43 kg"
+   * Hint: use cin.get() for consuming the newline character after obtaining weights, before abtaining the next name.
