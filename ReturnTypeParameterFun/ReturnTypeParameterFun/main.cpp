@@ -5,6 +5,7 @@ void printHello();
 void printNumber(int a);
 int giveMe10();
 int addThese(int num1, int num2);
+int square(int b);
 
 int main()
 {
@@ -21,6 +22,11 @@ int main()
 	cout << totalValue << endl;
 
 	printNumber(addThese(num1, 5));
+
+	int result = square(1109);
+	cout << result << endl;
+
+	// Or cout << square(5) << endl;
 
 	return 0;
 }
@@ -43,4 +49,9 @@ int giveMe10()
 int addThese(int num1, int num2)
 {
 	return num1 + num2;
+}
+
+int square(int b)
+{
+	return b * b;
 }
